@@ -25,7 +25,7 @@ import java.util.List;
 public class P119PascalsTriangleIi{
     public static void main(String[] args){
         Solution solution = new P119PascalsTriangleIi().new Solution();
-        System.out.println(solution.getRow(3));
+        System.out.println(solution.getRow(5));
     }
     //leetcode submit region begin(Prohibit modification and deletion)
     class Solution {
